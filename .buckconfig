@@ -1,0 +1,5 @@
+[alias]
+    app = //apps/myapp:app
+
+[android]
+  target = Google Inc.:Google APIs:24
